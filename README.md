@@ -1,3 +1,4 @@
+
 # LLM Observability Dashboard
 
 A production-ready frontend application for monitoring and analyzing LLM operations with enterprise features.
@@ -157,3 +158,7 @@ export default defineConfig([
   },
 ])
 ```
+=======
+# LLM-Observability-Dashboard-
+Real‑time monitoring of LLM calls (token usage, latency, errors, user feedback) and Interactive charts, alerts, and exportable analytics.
+>>>>>>> cdc7361a718c547d8e652acb948ba165393ec24d
